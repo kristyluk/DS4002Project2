@@ -7,3 +7,5 @@ female labor force participation rate --> https://fred.stlouisfed.org/series/LNS
 NEW female labor force participation rate --> https://www.bls.gov/opub/reports/womens-databook/2021/ (Table 2. Employment status of the civilian noninstitutional population, 16 years and older, by gender, 1948–2020 annual averages (numbers in thousands). Scroll down to "women" section
 
 wage gap --> https://www.pay-equity.org/info-time.html
+
+percentage of female population with bachelors --> https://www.statista.com/statistics/184272/educational-attainment-of-college-diploma-or-higher-by-gender/
