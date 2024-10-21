@@ -2,7 +2,8 @@
 
 ## Section 1: Software and platform section
 
-This project was completed using Mac and Windows platforms. The coding language used was Python and the coding environment was Google Colab. The ARIMA Modeling package in Python was used, for which documentation can be accessed here: https://www.projectpro.io/article/how-to-build-arima-model-in-python/544#:~:text=1.-,What%20is%20ARIMA%20in%20Python%3F,to%20handle%20non%2Dstationary%20data
+This project was completed using Mac and Windows platforms. The coding language used was Python and the coding environment was Google Colab. The ARIMA Modeling package in Python was used, for which documentation can be accessed here: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+
 ## Section 2: Map of Documentation
 
 ### This repository is organized as follows:
