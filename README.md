@@ -1,5 +1,12 @@
 # DS4002Project2
 
+## Section 1: Software and platform section
+
+This project was completed using Mac and Windows platforms. The coding language used was Python and the coding environment was Google Colab. The ARIMA Modeling package in Python was used, for which documentation can be accessed here: https://www.projectpro.io/article/how-to-build-arima-model-in-python/544#:~:text=1.-,What%20is%20ARIMA%20in%20Python%3F,to%20handle%20non%2Dstationary%20data
+## Section 2: Map of Documentation
+
+### This repository is organized as follows:
+
 CURRENT DATASET VARIABLES:
 
 1. Female_LFPR --> https://www.bls.gov/opub/reports/womens-databook/2021/
