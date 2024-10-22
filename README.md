@@ -5,21 +5,24 @@
 This project was completed using Mac and Windows platforms. The coding language used was Python and the coding environment was Google Colab. The ARIMA Modeling package in Python was used, for which documentation can be accessed here: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
 
 ## Section 2: Map of Documentation
+### This repository is organized as follows:
 1. DATA
-    - 
-    - 
+    - DS4002-Project2-Data.csv --> orginial dataset before cleaning
+    - DS4002-Project2-Data-CLEANED.csv --> cleaned dataset with no N/As
+    - 20th_century_data.csv --> data from the cleaned dataset, but only from 1960-2001 for the ARIMA modeling 
+    - Data Appendix Project 2.pdf --> Data Appendix for all variables in the dataset used for project
+      
 2. SCRIPTS
-    - 
-    - 
-    - 
+    - project2_script.ipynb --> a full script containing all of the code needed to reproduce results
+    - p2dataappendix.R --> a script containing the code used to produce EDA plots in the data appendix
+    - archived.ipynb --> contains outdated files that have been kept in case of future use
+
 3. OUTPUT
-    - 
-    - 
-    - 
+    - EDA Output Project 2.pdf --> Exploratory Data plots
+      
 4. LICENSE.md
 5. README.md
 
-### This repository is organized as follows:
 
 CURRENT DATASET VARIABLES:
 
@@ -34,5 +37,15 @@ CURRENT DATASET VARIABLES:
 4. First_Birth_Median_Age --> https://www.humanfertility.org/
      * In "HFD summary indicators" section, select "Mean Age at Birth"
      * This will download an excel sheet, copy and paste data from the U.S. column
+  
+## Section 3: Instructions for reproducing results
+
+### Please follow these steps in order to replicate this project's experimental design:
+
+1. 
+
+## References
+[1] 	
+
 
 --------------------------------------------------------------------------------------------------------------------------------------
