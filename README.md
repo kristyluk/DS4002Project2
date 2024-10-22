@@ -36,13 +36,18 @@ CURRENT DATASET VARIABLES:
 
 4. First_Birth_Median_Age --> https://www.humanfertility.org/
      * In "HFD summary indicators" section, select "Mean Age at Birth"
-     * This will download an excel sheet, copy and paste data from the U.S. column
+     * This will download an excel sheet. Copy and paste the data from the U.S. column
   
 ## Section 3: Instructions for reproducing results
 
 ### Please follow these steps in order to replicate this project's experimental design:
 
-1. 
+1. Extract the data from the links above in Section II. Copy and paste into an excel sheet. 
+2. Navigate to "project2_script.ipynb" file, which is located in the scripts folder.
+3. Load the datset using the code in the file, and then follow the code to perform EDA. Using the code from "p2dataappendix.R" in the scripts folder, display additional summary statistics.
+4. Navigate back to "project2_script.ipynb" in the Scripts folder, begin the ARIMA modeling process after downloading the necessary python libraries. Select p, d, and q values using the data visualizations created in the code.
+5. 
+
 
 ## References
 [1] 	
