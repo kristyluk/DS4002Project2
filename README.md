@@ -36,7 +36,8 @@ This project was completed using Mac and Windows platforms. The coding language 
 
 4. First_Birth_Median_Age --> https://www.humanfertility.org/
      * In "HFD summary indicators" section, select "Mean Age at Birth"
-     * This will download an excel sheet. Copy and paste the data from the U.S. column
+     * This will download an excel sheet
+     * Copy and paste the data from the U.S. column
   
 ## Section 3: Instructions for reproducing results
 
