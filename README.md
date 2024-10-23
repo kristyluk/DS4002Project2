@@ -42,15 +42,18 @@ CURRENT DATASET VARIABLES:
 
 ### Please follow these steps in order to replicate this project's experimental design:
 
-1. Extract the data from the links above in Section II. Copy and paste into an excel sheet. 
-2. Navigate to "project2_script.ipynb" file, which is located in the scripts folder.
-3. Load the datset using the code in the file, and then follow the code to perform EDA. Using the code from "p2dataappendix.R" in the scripts folder, display additional summary statistics.
-4. Navigate back to "project2_script.ipynb" in the Scripts folder, begin the ARIMA modeling process after downloading the necessary python libraries. Select p, d, and q values using the data visualizations created in the code.
-5. 
-
+1. Extract the data from the links above in Section II. Copy and paste into an excel sheet and convert the file to a CSV file. The file named "DS4002-Project2-Data-CLEANED.csv" can also be accessed in the DATA folder. This is the cleaned dataset and can be used for ease of replicating.  
+3. Navigate to "project2_script.ipynb" file, which is located in the SCRIPTS folder.
+4. Load the datset using the code in the file, and then follow the code to perform inital EDA. Using the code from "p2dataappendix.R" in the SCRIPTS folder, this will display additional summary statistics of variables included in the dataset.
+5. Navigate back to "project2_script.ipynb" in the SCRIPTS folder, begin the ARIMA modeling process after downloading the necessary Python libraries. Select appropriate values for p, d, and q values using the data visualizations created in the code. The code under the "Choosing best ARIMA parameters" section consists of some tests and plots used to determine appropriate parameters. Feel free to change the parameters if you feel there are more fitting values.
+6. The second part of the ARIMA modeling process is the code located under the "Now actually using the ARIMA model" section. This is where ARIMA will use the historical wage ratio data from 1960-2000 to predict the wage ratios for 2001-2019. A model fit summary and dataframe of the predicted and actual wage ratios will be generated to easily compare the values. 
+7. Lastly, the MSE, RMSE, and residuals are calculated. The code will plot the residuals on a plot, display summary statistics of the residuals, and display a graphic of the actual and predicted wage ratios.
 
 ## References
-[1] 	
+[1] 	D. Abugaber, “Chapter 23: Using ARIMA for Time Series Analysis,” University of Illinois Chicago, https://ademos.people.uic.edu/Chapter23.html/ (accessed Oct. 10, 2024).
+[2] 	J. Brownlee, “How to create an Arima model for time series forecasting in Python,” MachineLearningMastery.com, https://machinelearningmastery.com/arima-for-time-series-        forecasting-with-python/ (accessed Oct. 18, 2024).
+[3]	Fuqua School of Business, Introduction to ARIMA models, https://people.duke.edu/~rnau/411arim.htm (accessed Oct. 18, 2024). 
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
