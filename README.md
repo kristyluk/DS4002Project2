@@ -2,7 +2,7 @@
 
 ## Section 1: Software and platform section
 
-This project was completed using Mac and Windows platforms. The coding language used was Python and the coding environment was Google Colab. The ARIMA Modeling package in Python was used, for which documentation can be accessed here: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+This project was completed using Mac and Windows platforms. The coding language used was Python and the coding environment used was Google Colab. The ARIMA Modeling package in Python was used, for which documentation can be accessed here: https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
 
 ## Section 2: Map of Documentation
 ### This repository is organized as follows:
@@ -23,8 +23,7 @@ This project was completed using Mac and Windows platforms. The coding language 
 4. LICENSE.md
 5. README.md
 
-
-CURRENT DATASET VARIABLES:
+#### CURRENT DATASET VARIABLES:
 
 1. Female_LFPR --> https://www.bls.gov/opub/reports/womens-databook/2021/
      * Click on "Table 2. Employment status of the civilian noninstitutional population, 16 years and older, by gender, 1948–2020 annual averages (numbers in thousands)"
