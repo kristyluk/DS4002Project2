@@ -19,7 +19,7 @@ This project was completed using Mac and Windows platforms. The coding language 
 
 3. OUTPUT
     - EDA Output Project 2.pdf --> Exploratory Data plots
-    - MI3 - ARIMA Testing Output and RMSE/Residuals --> a document with all of the plots and tables from conducting ARIMA model and residual calculations
+    - MI3 - ARIMA Testing Output and RMSE/Residuals --> a document with all of the plots and tables from conducting ARIMA model and residual calculations; also has some extra code using the Holt-Winters method for forecasting 
       
 4. LICENSE.md
 5. README.md
